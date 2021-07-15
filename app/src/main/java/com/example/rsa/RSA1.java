@@ -18,10 +18,6 @@ import java.util.Map;
 
 import javax.crypto.Cipher;
 
-/**
- ** http://lugeek.com
- */
-
 public class RSA1 {
 
     public static final String KEY_ALGORITHM = "RSA";
